@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bellota:ital,wght@1,700&display=swap');
+
+.nav-brand-font{
+  font-family: 'Piedra', cursive;
+  font-size: 2rem;
+  color:#00adef;
+}
+
+.nav-brand-font:hover{
+  font-family: 'Piedra', cursive;
+  font-size: 2rem;
+  color:#00adef;
+}
+
+.nav-link-font{
+  font-family: 'Piedra', cursive;
+  font-size: 1.5em;
+}
+
+
+.card img{
+    max-width: 100%;
+}
+.description{
+display: block;
+width: 100px;
+overflow: hidden;
+white-space: nowrap;
+ text-overflow: ellipsis;
+}
+.jumbotron-img{
+    background-image:  url("https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg");
+    background-size: cover;
+    color: white;
+
+}
+body{
+background-image: linear-gradient(90deg, rgba(0,173,239,0.4030345414533001) 87%, rgba(0,173,239,1) 100%);
+}
